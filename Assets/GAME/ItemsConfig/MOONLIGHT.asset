@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d4fdb796dac4004db56f1c07559624f, type: 3}
+  m_Name: MOONLIGHT
+  m_EditorClassIdentifier: 
+  ID: 58
+  Name: "\u041B\u0443\u043D\u043D\u044B\u0439 \u0421\u0432\u0435\u0442"
+  Visual: {fileID: 1138539234676296994, guid: 2d846674de6f38f4fadfdea4e54ca92d, type: 3}
+  Type: Artefact
+  weight: 0
+  costBase: 0

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 14ba99b41ad73d14c97315045dd6157d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Config: {instanceID: 0}
+  - HandsPoint: {fileID: 3272388914747377984, guid: dae8300f7a13d984e9eb6d7155de5575,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
