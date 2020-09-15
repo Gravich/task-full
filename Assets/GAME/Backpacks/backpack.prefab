@@ -1339,13 +1339,13 @@ MonoBehaviour:
   PutEvent:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 3326718138634175164, guid: d154a755c13101046b265c5741e44d9b,
+      - m_Target: {fileID: 3326718138634175165, guid: d154a755c13101046b265c5741e44d9b,
           type: 3}
-        m_MethodName: 
-        m_Mode: 1
+        m_MethodName: OnSomePut
+        m_Mode: 0
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -1354,13 +1354,13 @@ MonoBehaviour:
   TakeEvent:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 3326718138634175164, guid: d154a755c13101046b265c5741e44d9b,
+      - m_Target: {fileID: 3326718138634175165, guid: d154a755c13101046b265c5741e44d9b,
           type: 3}
-        m_MethodName: 
-        m_Mode: 1
+        m_MethodName: OnSomeTake
+        m_Mode: 0
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 

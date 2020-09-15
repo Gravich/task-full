@@ -77,7 +77,6 @@ public class ActorRaycast : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.L) && OpenedBackpack && OpenedBackpack.isOpened)
         {
-            Debug.Log("test");
             OpenedBackpack.TakeLast();
         }
 
